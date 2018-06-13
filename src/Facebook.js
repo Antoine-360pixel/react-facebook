@@ -21,7 +21,7 @@ export default class Facebook {
       cookie: false,
       status: false,
       xfbml: false,
-      language: 'en_US',
+      language: 'fr_FR',
       frictionlessRequests: false,
       ...options,
     };
